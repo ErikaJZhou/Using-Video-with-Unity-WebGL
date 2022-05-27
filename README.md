@@ -22,7 +22,7 @@ Using `StreamingAssets`
     - If the WebGL Build Support module is not installed, install it through Unity Hub.
     ![Add modules from the Installs page of Unity Hub](/Screenshots/unity-hub-installs-add-modules.png "Add modules for Unity install")
 
-1. Build And Run the Unity project. You may need to wait several minutes for the build to complete. [(Simmer.io)][Simmer.io Export WebGL Upload to Web]
+1. "Build And Run" the Unity project. You may need to wait several minutes for the build to complete. [(Simmer.io)][Simmer.io Export WebGL Upload to Web]
     - Once the build is finished, the WebGL project opens in your browser on localhost. If you click in the Unity canvas or press any key, the cat video should play.
     ![Unity WebGL project in browser on localhost after a Build And Run](/Screenshots/unity-webgl-streamingassets-video-test.png "Unity WebGL project in browser")
 
@@ -102,8 +102,8 @@ Using `StreamingAssets`
     ![Build Settings for Unity WebGL](/Screenshots/unity-webgl-build-settings-1.png "Build Settings")
     - If the WebGL Build Support module is not installed, install it through Unity Hub.
     ![Add modules from the Installs page of Unity Hub](/Screenshots/unity-hub-installs-add-modules.png "Add modules for Unity install")
-1. Build And Run the Unity project. You may need to wait several minutes for the build to complete. [(Simmer.io)][Simmer.io Export WebGL Upload to Web]
-    - Once the build is finished, the WebGL project opens in your browser on localhost. If you click in the Unity canvas or press any key, the cat video should play.
+1. "Build And Run" the Unity project. You may need to wait several minutes for the build to complete. [(Simmer.io)][Simmer.io Export WebGL Upload to Web]
+    - Once the build is finished, the WebGL project opens in your browser on localhost. If you click in the Unity canvas or press any key, your video should play.
     ![Unity WebGL project in browser on localhost after a Build And Run](/Screenshots/unity-webgl-streamingassets-video-test.png "Unity WebGL project in browser")
 
 
