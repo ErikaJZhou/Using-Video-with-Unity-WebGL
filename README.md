@@ -39,6 +39,7 @@ Using `StreamingAssets`
 1. Add a Video Player component to the Raw Image.
 1. In the Video Player component, uncheck Play on Awake.
 1. Drag and drop the Render Texture into the Texture field of the Raw Image component and into the Target Texture field of the Video Player component.
+    
     ![Raw Image and Video Player components in Inspector window](/Screenshots/raw-image-and-video-player-in-inspector.png "Raw Image and Video Player components in Inspector")
 1. Create a new C# script for the video controller. I named mine "StreamingAssetsVideoController". Open it up in your text editor.
 1. Copy and paste the following code into your C# script.
