@@ -30,7 +30,7 @@ Using `StreamingAssets`
 ## Tutorial
 **Tested with:** Unity editor version 2020.3.30f1 | **Difficulty:** Beginner | **Complexity:** Simple
 
-(This tutorial was adapted from tutorials by [Simmer][SIMMER Adding Video] and [irls][irls Play Video Unity WebGL]. The StreamingAssets trick for playing a video from Assets in a Unity WebGL project was from Jz Konain's [Stack Overflow][[Stack Overflow WebGL Video]] solution.)
+(This tutorial was adapted from tutorials by [Simmer][SIMMER Adding Video] and [irls][irls Play Video Unity WebGL]. The StreamingAssets trick for playing a video from Assets in a Unity WebGL project was from Jz Konain's [Stack Overflow][Stack Overflow WebGL Video] solution.)
 
 1. Start a Unity 3D project.
 1. Create a new folder in Assets called `StreamingAssets` and put your video file in it.
