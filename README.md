@@ -5,6 +5,14 @@ Test project and tutorial for how to include a video in a Unity WebGL project.
 Requested by Dr. Fang Wang from University of Missouri to help with part of a Summer 2022 study abroad trip project.
 
 
+## Motivation
+We wanted a way to add video to a Unity WebGL project from a video hosted in the cloud/accessed via a URL.
+
+Ideally it would be easy, quick, and simple.
+
+A solution that is free and using tools that IT students are already familiar with is a plus.
+
+
 ## Try out the test project!
 **Tested with:** Unity editor version 2020.3.30f1
 
@@ -105,14 +113,6 @@ Using `StreamingAssets`
 1. "Build And Run" the Unity project. You may need to wait several minutes for the build to complete. [(Simmer.io)][Simmer.io Export WebGL Upload to Web]
     - Once the build is finished, the WebGL project opens in your browser on localhost. If you click in the Unity canvas or press any key, your video should play.
     ![Unity WebGL project in browser on localhost after a Build And Run](/Screenshots/unity-webgl-streamingassets-video-test.png "Unity WebGL project in browser")
-
-
-## Motivation
-We wanted a way to add video to a Unity WebGL project from a video hosted in the cloud/accessed via a URL.
-
-Ideally it would be easy, quick, and simple.
-
-A solution that is free and using tools that IT students are already familiar with is a plus.
 
 
 ## Problems and Potential Solutions (Process Notes)
